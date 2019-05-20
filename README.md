@@ -4,6 +4,8 @@ Our Artificially intelligent system will predict the occurrence of epidemic caus
 Developed and maintained by:
 
 Mansha Lamba (web developer)
+
 Ramneek Kalra (mentor and android developer)
+
 Raunak Goswami(Machine learning engineer)
 
