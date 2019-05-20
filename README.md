@@ -3,7 +3,7 @@ Our Artificially intelligent system will predict the occurrence of epidemic caus
 
 Developed and maintained by:
 
-Mansha Lamba (web developer)
+Mansha Lamba (Mean stack developer)
 
 Ramneek Kalra (mentor and android developer)
 
